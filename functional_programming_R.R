@@ -77,7 +77,7 @@ filtered_prices <- function(prices){
 }
 
 
-
+# - 4.
 compute_pairwise_correlation <- function(prices) {
   # Name: compute_pairwise_correlation
   # Purpose: Calculate the pairwise correlation of returns
